@@ -1,0 +1,61 @@
+{
+    "name": "Tigers by Zodiac City #501",
+    "symbol": "ZC",
+    "description": "3,333 Hand-drawn Tigers living on the Solana Blockchain",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "external_url": "https://www.zodiaccity.io",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sunburst"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Mace"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Emperor Hat"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Gold Chain"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Laser Ice"
+        },
+        {
+            "trait_type": "Jewellery",
+            "value": "Blank"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Regular"
+        }
+    ],
+    "collection": {
+        "name": "Tigers by Zodiac City",
+        "family": "Tigers by Zodiac City"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "image.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "BZVrXhYD1nGuWjcD3WpwRZKNbng8RPdFzCKKrjSZKurz",
+                "share": 100
+            }
+        ]
+    }
+}
